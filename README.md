@@ -32,9 +32,11 @@ A comprehensive budget and expense tracking Android application built with Java 
 
 ## 📸 Screenshots
 
-![App Screenshot](screenshots/1.jpeg)
-![App Screenshot](screenshots/2.jpeg)
-![App Screenshot](screenshots/3.jpeg)
+<p align="center">
+  <img src="screenshots/1.jpeg" width="200"/>
+  <img src="screenshots/2.jpeg" width="200"/> 
+  <img src="screenshots/3.jpeg" width="200"/>
+</p>
 
 
 

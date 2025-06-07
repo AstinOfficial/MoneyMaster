@@ -30,6 +30,14 @@ A comprehensive budget and expense tracking Android application built with Java 
 - **Data persistence**: Reliable storage and retrieval of financial data
 - **Backup and restore**: Cloud-based data storage ensures data safety
 
+## 📸 Screenshots
+
+![App Screenshot](screenshots/1.jpeg)
+![App Screenshot](screenshots/2.jpeg)
+![App Screenshot](screenshots/3.jpeg)
+
+
+
 ## Tech Stack
 
 - **Language**: Java

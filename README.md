@@ -156,15 +156,10 @@ Money-Planner/
 2. Adjust individual category budgets
 3. Monitor spending against budgets
 
-## Key Components
 
-### FirebaseHelper Class
-The main utility class handling all Firebase operations:
-- **Payment Processing**: Handle expense transactions
-- **Data Loading**: Retrieve categories, history, and analytics
-- **CRUD Operations**: Create, read, update, delete financial records
-- **Budget Management**: Balance calculations and updates
+## 📌 Note for Developers
 
+ **This app is designed for personal finance tracking. Always ensure your financial data is secure and backed up appropriately.**
 
 ## Contributing
 
@@ -175,27 +170,7 @@ The main utility class handling all Firebase operations:
 5. Create a Pull Request
 
 
-## Troubleshooting
-
-### Common Issues
-
-**Firebase Connection Problems**
-- Verify `google-services.json` is in the correct location
-- Check Firebase project configuration
-- Ensure internet connectivity
-
-**Data Not Saving**
-- Check Firebase database rules
-- Verify write permissions
-- Review error logs in Android Studio
-
-**App Crashes**
-- Check for Logs
-
-
 ## 🙋‍♂️ Author
 Astin Biju <br>
 Feel free to connect on <a href="https://www.linkedin.com/in/astin-biju/">LinkedIn</a> or message me for questions or collaboration.
----
 
-**Note**: This app is designed for personal finance tracking. Always ensure your financial data is secure and backed up appropriately.

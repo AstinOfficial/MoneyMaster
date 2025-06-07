@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.MyApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Day mode colors -->
+        <item name="colorPrimary">#000000</item>
+        <item name="colorPrimaryVariant">#3700B3</item>
+        <item name="colorOnPrimary">#403A3A</item>
+
+        <item name="colorSecondary">#03DAC5</item>
+        <item name="colorOnSecondary">#000000</item>
+
+        <item name="android:windowBackground">#1B1818</item>
+        <item name="colorSurface">#737070</item>
+        <item name="colorOnSurface">#645959</item>
+
+        <item name="android:textColorPrimary">#B19D9D</item>
+        <item name="android:textColorSecondary">#666666</item>
+        <item name="android:navigationBarColor">#474343</item>
+        <item name="android:statusBarColor">#000000</item>
+    </style>
+</resources>
